@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="assets/kinora-logo.png" alt="KINORA Logo" width="180">
-</p>
 
-<h1 align="center">KINORA</h1>
-
-<p align="center">
-  Meaningful Connections. Shared Humanity.
-</p>
 KINORA
 
 Meaningful Connections. Shared Humanity.
