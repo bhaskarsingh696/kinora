@@ -1,5 +1,4 @@
-
-KINORA
+## KINORA
 
 Meaningful Connections. Shared Humanity.
 
